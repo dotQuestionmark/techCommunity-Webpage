@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+
+.container-fluid {
+  padding: 0;
+}
+
+
+
+
+.navbar-brand {
+
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+
+
+}
+
+.timage{
+  height: 400px;
+  width: 1530px;
+}
